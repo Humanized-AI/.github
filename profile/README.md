@@ -60,6 +60,8 @@ the evidence attached and the final word untouched.
   submission formats.
 - **normbase** — a norm and standard index with citation-level traceability.
 
+➡️ **[Our foundation & architecture](https://github.com/Humanized-AI/.github/blob/main/README.md)** — philosophy, AEC ontology and modular repo design *(draft v0.1)*.
+
 Railway electrification is where we started. The same coordination problem
 exists in structural, HVAC, fire protection and grid planning — and the same
 answer applies.
